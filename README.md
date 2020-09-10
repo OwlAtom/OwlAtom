@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm OwlAtom
 #### But you can just call me Oliver
-![todo: make banner image](banner.png)
+![Banner image with avatar](https://i.imgur.com/V1pkJEG.png)
 
 I'm currently studying Multimedia Design with focus on the front-end at University College Northern Denmark. In my spare time I make 3D things in Blender.
 
