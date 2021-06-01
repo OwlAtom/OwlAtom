@@ -9,7 +9,7 @@ Skills: Webdev / Blender3D / Adobe CC
 ![Profile views](https://gpvc.arturio.dev/Owlatom)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owlatom&show_icons=true)  
 
-- 🔭 I’m currently building a webshop with [shopify](https://www.shopify.com/) and [Vue store front](https://github.com/vuestorefront/vue-storefront). 
+- 🔭 I’m currently building a webshop with [shopify](https://www.shopify.com/) and their templating language Liquid. 
 - 🌱 I’m learning more and more about the wonders of Vue.js
 - 💬 Ask me about 3D models 
 - 😄 Pronouns: he/him 
