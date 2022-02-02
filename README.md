@@ -8,5 +8,5 @@ Skills: Webdev / Blender3D / Adobe CC
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Owlatom&show_icons=true)  
 
 - 🔭 I’m currently working on my NEW AND UPDATED(!!) portfolio in my spare time. 
-- 🌱 I’m learning about PHP, databases and backend tech
+- 🌱 I’m learning about UX, ReactJS, VueJS, Angular, Flutter and DX
 
