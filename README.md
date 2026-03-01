@@ -9,6 +9,6 @@ In my spare time I make 3D renders and models in Blender.
 My current obsession is making my own social party game inspired by taskmaster
 
 ---
-- 🔎 I’ve found a frontend job: I'm now maintaining a design system! 
+- 🔎 I’ve found a frontend job: I'm now maintaining and developing a design system! 
 - 🧙‍♂️ I’m playing around in blender when i have the time. The current goal is to become a blender wiz
 
